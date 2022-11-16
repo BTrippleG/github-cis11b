@@ -1,0 +1,17 @@
+Reflection
+
+Two items that went well during this process
+
+Unfortunately, when I first created the group Github, the only thing that went well was creating the account and getting GitHub desktop installed. From there it went downhill as the desktop application doesn’t allow eclipse. 
+ 
+Two issues you experienced during this process
+
+After I installed all the necessary attachments for Github eclipse, everything went wrong.
+Tried to set it up with the HTTPS but eclipse no longer supports that so I had to find out how to use SSH.
+Then it told me my SSH was not accessible so I had to redo that step. 
+Files in the github said they couldn't find the main project so I spent 2 hours just trying to fix that.
+Many other things went wrong during this time that I think I've blocked out.
+ 
+One interesting thing that occurred configuring your account or working with Git and Github.
+
+After all my problems, I have somehow been able to figure out how to use build paths and add libraries to my projects like a pro. As well as use .project files to physically edit specifications.
